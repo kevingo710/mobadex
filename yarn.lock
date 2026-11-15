@@ -1131,20 +1131,20 @@
   resolved "https://registry.yarnpkg.com/@inversifyjs/common/-/common-2.0.2.tgz#055af9caf958ee4b7f0c75365beb59d1e70b4f07"
   integrity sha512-k7bXb6SVHEfUarVwYW6eNVLWXUcCSJKb+ilTpJ4OL5az3eDpLbkEzlrYAEix14PvTdA+k/1RSw5DaBpvRu1GGw==
 
-"@inversifyjs/container@3.1.4":
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/@inversifyjs/container/-/container-3.1.4.tgz#892af8971c3d474a856e5bdca8209b7ddf3889fb"
-  integrity sha512-wpapFx60VSRFZx10BgUmyUnFeKx9AXe936S/ZfutMwmpwjLwaqdWonU5/d+uUyIkmsY+vGzSDW51mxinz5mNag==
+"@inversifyjs/container@3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@inversifyjs/container/-/container-3.2.0.tgz#5de662fcfb2c42dca3344c91628318423906640c"
+  integrity sha512-WZFPUbPxIC7zMNkUrSTXjBr91sYhHJF6Zk3bwZ6f3TDkO4wfmMO76eluXEFgOA+5ixRJn3u2hK7lpgXW6XhinQ==
   dependencies:
     "@inversifyjs/common" "2.0.2"
-    "@inversifyjs/core" "15.0.2"
+    "@inversifyjs/core" "15.1.0"
     "@inversifyjs/plugin" "0.3.2"
     "@inversifyjs/reflect-metadata-utils" "1.5.1"
 
-"@inversifyjs/core@15.0.2":
-  version "15.0.2"
-  resolved "https://registry.yarnpkg.com/@inversifyjs/core/-/core-15.0.2.tgz#ce1da9e56bff7f9ea1c27a4cc1b147101e244a8e"
-  integrity sha512-IYczXNwGtWGLU0bIIqL+PdmbyjGrL1JvAbE+BjvCsdrkMoXUy4zeLHiJP6bWydgZ4nzpyXK1v8kpOaWj2j97pQ==
+"@inversifyjs/core@15.1.0":
+  version "15.1.0"
+  resolved "https://registry.yarnpkg.com/@inversifyjs/core/-/core-15.1.0.tgz#360f4273fe3ca900c429b524ee384d45b05e3e19"
+  integrity sha512-aO3piH+DGqS2rUveiseTJWzsHlK++Tf9RaGbtEEM/XCGNmvxjFcCRG5gcxsBUEoGGec5xlu+oouD/ExpvoRhIQ==
   dependencies:
     "@inversifyjs/common" "2.0.2"
     "@inversifyjs/prototype-utils" "0.2.2"
@@ -1659,10 +1659,10 @@
     "@jsonjoy.com/buffers" "^1.0.0"
     "@jsonjoy.com/codegen" "^1.0.0"
 
-"@legendapp/list@^3.7.1":
-  version "3.7.1"
-  resolved "https://registry.yarnpkg.com/@legendapp/list/-/list-3.7.1.tgz#0e27b2d1fb2882fc43a5eab06e4965cafabc8457"
-  integrity sha512-zgIy84yG2JP93+kib61rZBTcYGZ6fULrkCQz/MF7WrjVJeJQa/rR4z+rXfM5oveirO5mYkro4IDGytARIjJe9w==
+"@legendapp/list@^3.7.2":
+  version "3.7.2"
+  resolved "https://registry.yarnpkg.com/@legendapp/list/-/list-3.7.2.tgz#6b6b156ae2efd2540b3eaff24d9e9fd799970b22"
+  integrity sha512-StFy5qjOHHuxHKjenwLq500S/z+zuF43hj8iqXhX9EMtzeOagPfsnMRWphvBG4CYBvMTX6VzgLjN5BzzwY1jDA==
   dependencies:
     use-sync-external-store "^1.5.0"
 
@@ -2402,17 +2402,17 @@
   dependencies:
     "@sinonjs/commons" "^3.0.1"
 
-"@tanstack/query-core@5.106.1":
-  version "5.106.1"
-  resolved "https://registry.yarnpkg.com/@tanstack/query-core/-/query-core-5.106.1.tgz#3e5741dcdb4dc6efd6c1d9ccd9d25ae581370317"
-  integrity sha512-erYv/UACddcdgjOL2ixmFdK6tO/AVBeUcTCOtX2N51yZpDQ2U7KJ+xgB/bCNfsF3uoCDTqGHEEbDiFsIO9YUmQ==
+"@tanstack/query-core@5.107.1":
+  version "5.107.1"
+  resolved "https://registry.yarnpkg.com/@tanstack/query-core/-/query-core-5.107.1.tgz#cd1f9952b4d623e66349931df631b287d9c4a3fe"
+  integrity sha512-PSyAik11oQBEVOiVy5hjZWHmoUqOXqK1WYy4v55mcxozEfKaQgpUMsgnXhWjuESzSht8JfzqMS1m6M/9CpNgvg==
 
-"@tanstack/react-query@^5.106.1":
-  version "5.106.1"
-  resolved "https://registry.yarnpkg.com/@tanstack/react-query/-/react-query-5.106.1.tgz#d3381ab946125c918d1627faa2ebcd07b0920000"
-  integrity sha512-ORDvJG/DSfmlFL9lQ8GDkE0VjtQbLeRDY7BL8xjKkQFGLfjFGfNWNuteWgPqA2gPJgLLuWfQ7IX0FlsHCJriyg==
+"@tanstack/react-query@^5.107.1":
+  version "5.107.1"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-query/-/react-query-5.107.1.tgz#277e4b8c4d6d0496047ef15afacbc8c091ce0532"
+  integrity sha512-udCOOLp3ZAheUrIHLCe+ZZge6nr2ZUrGMSWcCuXsjY1Bf2JeeE09oxst97PILiCY6N8xo/7bIo3Hvz13zh06FA==
   dependencies:
-    "@tanstack/query-core" "5.106.1"
+    "@tanstack/query-core" "5.107.1"
 
 "@tybys/wasm-util@^0.10.3":
   version "0.10.4"
@@ -3257,12 +3257,12 @@ available-typed-arrays@^1.0.7:
   dependencies:
     possible-typed-array-names "^1.0.0"
 
-axios@^1.21.0:
-  version "1.21.0"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-1.21.0.tgz#30c363a2652d9649e8b4d2645b34c64ca541ff67"
-  integrity sha512-YCzXMB53Q9PZBsh7yN7wtapit4WepwcHS2fP8QhGsBxSz5YtgYobV7GGlWlAJi+RxfU77GQTQi2DSLUma42EYA==
+axios@^1.21.1:
+  version "1.21.1"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.21.1.tgz#e15d57924d677aea9adb9f06b112b13b9ea0b9dd"
+  integrity sha512-6eI5Q/Y4u/Um9dDlsRoq5pY2rxnUTv+L4PpLitnbk/i4jb3MxLZ5CsN5Ih3IysbeRYK4pR+P7qfMsOQl9fwwFQ==
   dependencies:
-    follow-redirects "^1.16.0"
+    follow-redirects "^1.16.2"
     form-data "^4.0.6"
     https-proxy-agent "^5.0.1"
     proxy-from-env "^2.1.0"
@@ -4869,10 +4869,10 @@ flow-parser@0.336.0:
   dependencies:
     flow-estree "0.336.0"
 
-follow-redirects@^1.16.0:
-  version "1.16.2"
-  resolved "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.16.2.tgz"
-  integrity sha512-/kVP2U8z596Ia0gwFrwyIeo74ta5aVmSeU1FfAUMAmcEP5EP7zydmag3SLiN64NaRKef3lxsq7i/g7ltJQDGow==
+follow-redirects@^1.16.2:
+  version "1.16.3"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.16.3.tgz#62b60932427f616327014a5e401e8fc5e9027e9b"
+  integrity sha512-toOSoqN6d51Wjf1aOFJYcoVv1aND9rj/CwjLU0Vz40oDuSpWDayCeKe4JpL5NL0WdFvoOOCI3BRo69HahjbR1A==
 
 for-each@^0.3.3, for-each@^0.3.5:
   version "0.3.5"
@@ -5351,14 +5351,14 @@ invariant@^2.2.4:
   dependencies:
     loose-envify "^1.0.0"
 
-inversify@^8.2.4:
-  version "8.2.4"
-  resolved "https://registry.yarnpkg.com/inversify/-/inversify-8.2.4.tgz#36498fd350a797b31a25bd3ca5743533da377002"
-  integrity sha512-kEIzWRoL4IyvZzo/p7c2T1Y0pxE4X7jfI+znkh44PQ6WCh3k+6HYYAMAiR2vKTzxei53qLSVo0D101fUHjR+HQ==
+inversify@^8.3.0:
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/inversify/-/inversify-8.3.0.tgz#a730be2d6cdbabdc7a77e3994a8bef28c5aca795"
+  integrity sha512-ow0zbGCAjfklUjarM3vY6FE2UAwTj1fKGXo5a5HMBJ/9aKK0fZqxCu69ne2UzABfaCl/X+9F5kvV+K+jcM8UOA==
   dependencies:
     "@inversifyjs/common" "2.0.2"
-    "@inversifyjs/container" "3.1.4"
-    "@inversifyjs/core" "15.0.2"
+    "@inversifyjs/container" "3.2.0"
+    "@inversifyjs/core" "15.1.0"
 
 ipaddr.js@1.9.1:
   version "1.9.1"
