@@ -2023,16 +2023,6 @@
     fast-glob "^3.3.2"
     picocolors "^1.1.1"
 
-"@react-native-community/cli-config-android@20.2.0":
-  version "20.2.0"
-  resolved "https://registry.npmjs.org/@react-native-community/cli-config-android/-/cli-config-android-20.2.0.tgz"
-  integrity sha512-lASofUNBVK0Pq3VEJ1JrCfAW94Rnk38DikauycRcoHl0hWjHIN3XhsN20dEq+CaIJoq37aCg5NSSSpmkET+ShA==
-  dependencies:
-    "@react-native-community/cli-tools" "20.2.0"
-    fast-glob "^3.3.2"
-    fast-xml-parser "^5.3.6"
-    picocolors "^1.1.1"
-
 "@react-native-community/cli-config-android@21.0.0":
   version "21.0.0"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-config-android/-/cli-config-android-21.0.0.tgz#43bd15d92e28d9ea279cbcab8124934c974d740b"
@@ -2095,17 +2085,6 @@
     semver "^7.5.2"
     wcwidth "^1.0.1"
     yaml "^2.2.1"
-
-"@react-native-community/cli-platform-android@20.2.0":
-  version "20.2.0"
-  resolved "https://registry.npmjs.org/@react-native-community/cli-platform-android/-/cli-platform-android-20.2.0.tgz"
-  integrity sha512-fRglzcf/Yq5lnIkqdA8uf1GvlG18x3Dm48Yvo+l7KiWgh/SVtfVhfvalrtX5rmx+KeJkDA534bGoPvi5+ruWjw==
-  dependencies:
-    "@react-native-community/cli-config-android" "20.2.0"
-    "@react-native-community/cli-tools" "20.2.0"
-    execa "^5.0.0"
-    logkitty "^0.7.1"
-    picocolors "^1.1.1"
 
 "@react-native-community/cli-platform-android@21.0.0":
   version "21.0.0"
